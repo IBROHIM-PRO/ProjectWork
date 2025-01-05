@@ -16,6 +16,9 @@ public class AccountController : Controller {
         _context.Accounts.Add(newAccount);
         _context.SaveChanges();
 
-        return View("MessegeInfo");
+        return View("MessegeInfo", "MessegePage");
+    }
+    public IActionResult MessegeInfo(){
+        return View();
     }
 }
