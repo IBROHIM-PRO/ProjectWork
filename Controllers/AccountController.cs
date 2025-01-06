@@ -11,14 +11,16 @@ public class AccountController : Controller {
     public IActionResult Register(){
         return View();
     }
+    [HttpGet]
+    public IActionResult MessageInfo(){
+        return View();
+    }
     [HttpPost]
     public IActionResult RegisterPost(Account newAccount){
         _context.Accounts.Add(newAccount);
         _context.SaveChanges();
 
-        return View("MessegeInfo", "MessegePage");
+        return View("MessageInfo", "Home");
     }
-    public IActionResult MessegeInfo(){
-        return View();
-    }
+    
 }
