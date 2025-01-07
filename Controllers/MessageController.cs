@@ -7,14 +7,24 @@ public class MessageController : Controller {
     public MessageController(DataContext context){
         _context = context;
     } 
+    
+    [HttpGet]
     public IActionResult MessageInfo(){
-        var Message = _context.Messages.ToList();
-        return View(Message);
+        return View();
     }
+
+    [HttpGet]
+    public IActionResult MessageCreate(){
+        var ms = _context.Messages.ToList();
+
+        return View(ms);
+    }
+
+    [HttpPost]
     public IActionResult MessagePost(Message newMessage){
         _context.Messages.Add(newMessage);
         _context.SaveChanges();
 
-        return View("MessageInfo", "Home");
+        return RedirectToAction("MessageCreate", "Message");
     }
 }

@@ -26,10 +26,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\IBROHIM\Desktop\Test\ProjectWork\MessegeProject
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/IBROHIM/Desktop/Test/ProjectWork/MessegeProject/Views/Account/MessageInfo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxNZXNzYWdlSW5mby5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/IBROHIM/Desktop/Test/ProjectWork/MessegeProject/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -40,6 +36,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/IBROHIM/Desktop/Test/ProjectWork/MessegeProject/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IBROHIM/Desktop/Test/ProjectWork/MessegeProject/Views/Message/MessageCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZVxNZXNzYWdlQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IBROHIM/Desktop/Test/ProjectWork/MessegeProject/Views/Message/MessageInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZVxNZXNzYWdlSW5mby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/IBROHIM/Desktop/Test/ProjectWork/MessegeProject/Views/Shared/Error.cshtml]

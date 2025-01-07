@@ -9,20 +9,19 @@ public class AccountController : Controller {
     public AccountController(DataContext context){
         _context = context;
     }
+
     [HttpGet]
     public IActionResult Register(){
         return View();
     }
-    [HttpGet]
-    public IActionResult MessageInfo(){
-        return View();
-    }
+
+
     [HttpPost]
     public IActionResult RegisterPost(Account newAccount){
         _context.Accounts.Add(newAccount);
         _context.SaveChanges();
 
-        return View("MessageInfo", "Home");
+        return RedirectToAction("MessageInfo", "Message");
     }
     
 }
