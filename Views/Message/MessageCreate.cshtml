@@ -1,11 +1,11 @@
 @model IEnumerable<Message>
 
- <h1>Маълумоти паёмҳо</h1>
+ <h1>Маълумоти паёмҳо</h1><hr style="height: 10px;">
  <div>
         <table>
         @foreach(var ms in Model){
             <tr>            
-                <div style="border-radius: 10px; background-color: rgb(173, 185, 211); padding:  10px; margin: 10px;">
+                <div style="border-radius: 10px; background-color: rgb(221, 228, 243); padding:  10px; margin: 10px;">
                     @* <div>@ms.Id</div> *@
                     <label>Name: @ms.Name</label><hr style="margin:2px;">
                     <div>@ms.Matn</div>

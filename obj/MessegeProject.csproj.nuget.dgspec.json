@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IBROHIM\\Desktop\\Test\\ProjectWork\\MessegeProject\\MessegeProject.csproj": {}
+    "D:\\КИТОБҲО\\DARS\\ASP.NET\\Test\\ProjectWork\\MessegeProject\\MessegeProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IBROHIM\\Desktop\\Test\\ProjectWork\\MessegeProject\\MessegeProject.csproj": {
+    "D:\\КИТОБҲО\\DARS\\ASP.NET\\Test\\ProjectWork\\MessegeProject\\MessegeProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IBROHIM\\Desktop\\Test\\ProjectWork\\MessegeProject\\MessegeProject.csproj",
+        "projectUniqueName": "D:\\КИТОБҲО\\DARS\\ASP.NET\\Test\\ProjectWork\\MessegeProject\\MessegeProject.csproj",
         "projectName": "MessegeProject",
-        "projectPath": "C:\\Users\\IBROHIM\\Desktop\\Test\\ProjectWork\\MessegeProject\\MessegeProject.csproj",
+        "projectPath": "D:\\КИТОБҲО\\DARS\\ASP.NET\\Test\\ProjectWork\\MessegeProject\\MessegeProject.csproj",
         "packagesPath": "C:\\Users\\IBROHIM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IBROHIM\\Desktop\\Test\\ProjectWork\\MessegeProject\\obj\\",
+        "outputPath": "D:\\КИТОБҲО\\DARS\\ASP.NET\\Test\\ProjectWork\\MessegeProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IBROHIM\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",

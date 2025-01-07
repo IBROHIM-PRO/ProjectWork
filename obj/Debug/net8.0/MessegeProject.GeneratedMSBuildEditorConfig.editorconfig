@@ -17,51 +17,55 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MessegeProject
 build_property.RootNamespace = MessegeProject
-build_property.ProjectDir = C:\Users\IBROHIM\Desktop\Test\ProjectWork\MessegeProject\
+build_property.ProjectDir = D:\КИТОБҲО\DARS\ASP.NET\Test\ProjectWork\MessegeProject\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\IBROHIM\Desktop\Test\ProjectWork\MessegeProject
+build_property.MSBuildProjectDirectory = D:\КИТОБҲО\DARS\ASP.NET\Test\ProjectWork\MessegeProject
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/IBROHIM/Desktop/Test/ProjectWork/MessegeProject/Views/Account/Register.cshtml]
+[D:/КИТОБҲО/DARS/ASP.NET/Test/ProjectWork/MessegeProject/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/КИТОБҲО/DARS/ASP.NET/Test/ProjectWork/MessegeProject/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IBROHIM/Desktop/Test/ProjectWork/MessegeProject/Views/Home/Index.cshtml]
+[D:/КИТОБҲО/DARS/ASP.NET/Test/ProjectWork/MessegeProject/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IBROHIM/Desktop/Test/ProjectWork/MessegeProject/Views/Home/Privacy.cshtml]
+[D:/КИТОБҲО/DARS/ASP.NET/Test/ProjectWork/MessegeProject/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IBROHIM/Desktop/Test/ProjectWork/MessegeProject/Views/Message/MessageCreate.cshtml]
+[D:/КИТОБҲО/DARS/ASP.NET/Test/ProjectWork/MessegeProject/Views/Message/MessageCreate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZVxNZXNzYWdlQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IBROHIM/Desktop/Test/ProjectWork/MessegeProject/Views/Message/MessageInfo.cshtml]
+[D:/КИТОБҲО/DARS/ASP.NET/Test/ProjectWork/MessegeProject/Views/Message/MessageInfo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZVxNZXNzYWdlSW5mby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IBROHIM/Desktop/Test/ProjectWork/MessegeProject/Views/Shared/Error.cshtml]
+[D:/КИТОБҲО/DARS/ASP.NET/Test/ProjectWork/MessegeProject/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IBROHIM/Desktop/Test/ProjectWork/MessegeProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/КИТОБҲО/DARS/ASP.NET/Test/ProjectWork/MessegeProject/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IBROHIM/Desktop/Test/ProjectWork/MessegeProject/Views/_ViewImports.cshtml]
+[D:/КИТОБҲО/DARS/ASP.NET/Test/ProjectWork/MessegeProject/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IBROHIM/Desktop/Test/ProjectWork/MessegeProject/Views/_ViewStart.cshtml]
+[D:/КИТОБҲО/DARS/ASP.NET/Test/ProjectWork/MessegeProject/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IBROHIM/Desktop/Test/ProjectWork/MessegeProject/Views/Shared/_Layout.cshtml]
+[D:/КИТОБҲО/DARS/ASP.NET/Test/ProjectWork/MessegeProject/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9svkbt5th6
